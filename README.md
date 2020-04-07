@@ -1,6 +1,6 @@
 # personal_expenses
 
-A new Flutter project.
+This is an App made over Flutter and Dart and has is used to keep track of your daily expenses.
 
 ## Getting Started
 
